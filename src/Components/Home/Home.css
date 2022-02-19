@@ -1,0 +1,5 @@
+#home_container {
+  align-items: flex-end;
+  position: static;
+  top: 25vh;
+}
